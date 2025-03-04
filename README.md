@@ -42,4 +42,16 @@ Follow these steps to set up the project:
    php artisan serve
 
 ## Usage
+- Navigate to http://127.0.0.1:8000/
+- Perform CRUD operations on records.
 
+## Screenshots
+
+## Technologies Used
+- Laravel
+- MySQL / SQLite
+- Bootstrap
+- Blade Templating
+
+## License
+This project is licensed under the [MIT License](LICENSE).
