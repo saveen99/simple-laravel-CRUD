@@ -1,2 +1,1 @@
-
 ## Simple Laravel CRUD Operation
