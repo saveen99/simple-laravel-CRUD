@@ -47,6 +47,10 @@ Follow these steps to set up the project:
 
 ## Screenshots
 
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+
+
 ## Technologies Used
 - Laravel
 - MySQL / SQLite
