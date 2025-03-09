@@ -58,7 +58,7 @@ Follow these steps to set up the project:
 ## Technologies Used
 - Laravel
 - MySQL / SQLite
-- Bootstrap
+- Bootstrap / Tailwind CSS
 - Blade Templating
 
 ## License
