@@ -6,7 +6,7 @@ This is a simple Laravel CRUD (Create, Read, Update, Delete) project to demonstr
 
 - Create, Read, Update, and Delete records
 - Laravel Blade templating
-- Bootstrap for styling
+- Bootstrap & Tailwind CSS for styling
 - Eloquent ORM for database interactions
 - Validation for form inputs
 
@@ -16,8 +16,8 @@ Follow these steps to set up the project:
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/saveen99/simple-laravel-CRUD.git
+   cd simple-laravel-CRUD
 
 2. **Install dependencies**
    ```sh
