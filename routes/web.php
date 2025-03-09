@@ -23,4 +23,5 @@ Route::post('/product', [ProductController::class, "store"])-> name ('product.st
 Route::get('/product/{product}/edit', [ProductController::class, "edit"])-> name ('product.edit');
 Route::put('/product/{product}/update', [ProductController::class, "update"])-> name ('product.update');
 Route::delete('/product/{product}/destroy', [ProductController::class, "destroy"])-> name ('product.destroy');
-
+// AJAX Search Route
+Route::get('/products/search', [ProductController::class, 'search'])->name('product.search');
