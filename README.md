@@ -27,6 +27,7 @@ Follow these steps to set up the project:
 2. **Install dependencies**
    ```sh
    composer install
+   npm install
 
 3. **Copy the environment file and configure**
    ```sh
@@ -54,6 +55,7 @@ Follow these steps to set up the project:
 
 ![Screenshot 1](screenshots/screenshot1.png)
 ![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](screenshots/screenshot3.png)
 
 
 ## Technologies Used
