@@ -1,8 +1,3 @@
-
-
-
-
-
 # Simple Laravel CRUD Project
 
 This is a simple Laravel CRUD (Create, Read, Update, Delete) project to demonstrate basic operations with Laravel.
@@ -27,6 +22,8 @@ Follow these steps to set up the project:
 2. **Install dependencies**
    ```sh
    composer install
+   ```
+   ```sh
    npm install
 
 3. **Copy the environment file and configure**
