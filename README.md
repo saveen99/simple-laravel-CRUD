@@ -1,7 +1,3 @@
-
-
-
-
 # Simple Laravel CRUD Project
 
 This is a simple Laravel CRUD (Create, Read, Update, Delete) project to demonstrate basic operations with Laravel.
